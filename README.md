@@ -14,8 +14,8 @@
 
 
 
-## 🔴 Front-end <a name = "here"></a>
-**Click [here](https://github.com/denisdiaconu/hello-react-front-end/tree/dev) in order to see the front-page of this project.**
+## 🔴 Front-end-PR <a name = "here"></a>
+**Click [here](https://github.com/denisdiaconu/hello-react-front-end/pull/1) in order to see the front-page of this project.**
    
 ## Getting Started
 
