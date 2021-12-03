@@ -1,24 +1,64 @@
-# README
+# Hello-rails-back-end
+    
+    Implement a connection between a Ruby on Rails back-end and React front-end.
+    Understand pros and cons of different approaches of connecting Ruby on Rails back-end with React front-end.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+## Built With
 
-* Ruby version
 
-* System dependencies
+- Ruby
+- Rails
 
-* Configuration
 
-* Database creation
+## Getting Started
 
-* Database initialization
+To get a local copy up and running follow these simple example steps on the command line.
 
-* How to run the test suite
+```bash
 
-* Services (job queues, cache servers, search engines, etc.)
+  # Clone the project from it's github repo.
 
-* Deployment instructions
+  $ git clone https://github.com/denisdiaconu/hello-rails-back-end
 
-* ...
+  # Change directory to the root of project
+
+  $ cd hello-rails-back-end/
+
+  # Run bundle
+
+  $ bundle
+
+  # Create the database
+
+  $ rails db:create db:migrate db:seed
+
+  # Start
+  
+  $ rails s
+```
+
+## Authors
+
+👤 **Denis Andrei Diaconu**
+
+- GitHub: [@DenisDiaconu](https://github.com/denisdiaconu)
+- Twitter: [@DenisAndreiDia1](https://twitter.com/DenisAndreiDia1)
+- LinkedIn: [Denis Diaconu](https://www.linkedin.com/in/denis-diaconu-1394091b7/)
+
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Microverse Community
+
+## 📝 License
+
+This project is [MIT licensed](./LICENSE)
