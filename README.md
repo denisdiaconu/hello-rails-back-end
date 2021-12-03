@@ -12,6 +12,11 @@
 - Rails
 
 
+
+
+## 🔴 Front-end-PR <a name = "here"></a>
+**Click [here](https://github.com/denisdiaconu/hello-react-front-end/pull/1) in order to see the front-page of this project.**
+   
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps on the command line.
